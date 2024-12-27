@@ -215,5 +215,5 @@ with col2:
 
 # Footer Section
 st.sidebar.markdown("---")
-st.sidebar.markdown("📩 **Contact Us**: info@example.com")
-st.sidebar.markdown("💻 Developed by [Your Name]")
+st.sidebar.markdown("📩 **Contact Me**: farhankhankundur@gmail.com")
+st.sidebar.markdown("💻 Developed by [Farhan Khan]")
